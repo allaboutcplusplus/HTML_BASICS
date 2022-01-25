@@ -1,0 +1,22 @@
+body{
+  background-color: : yellow;
+}
+.one{
+  border-width: medium;
+  border-color: purple;
+  background-color: black;
+  color: green
+}
+.two{
+  border-width: thick;
+  border-color: red;
+  color: blue;
+  border-style: groove;
+}
+#idtag{
+  background: color(yellow);
+  border-style: dotted;
+  border-color: purple;
+  color: red
+
+}
